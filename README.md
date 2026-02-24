@@ -187,6 +187,11 @@
     alt="Docker">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    width="60px"
+    alt="Docker">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
     width="60px"
     alt="Kubernetes">
