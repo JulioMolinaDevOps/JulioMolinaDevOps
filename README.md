@@ -21,7 +21,7 @@
   - Contenedores y Orquestación: Docker, Kubernetes  
   - Nube: AWS, Azure  
   - Infraestructura como Código: Terraform, Ansible  
-  - Monitoreo: Prometheus, Grafana  
+  - Monitoreo: Prometheus, Grafana, InfluxDB2, Promtail 
 
 
  <div align="center" width="100">
