@@ -25,7 +25,15 @@
 
 - Pregúntame sobre **Automatización, Monitoreo y Buenas Prácticas en DevOps**.
 
+ - Herramientas que uso a diario:
+   - CI/CD: GitHub Actions, Jenkins, GitLabs
+   - Contenedores y Orquestación: Docker, Kubernetes
+   - Nube: AWS, Azure
+   - Infraestructura como Código: Terraform, Ansible
+   - Monitoreo: Prometheus, Grafana, InfluxDB2, Promtail
+
 ---
+
 
 <div align="center">
 
