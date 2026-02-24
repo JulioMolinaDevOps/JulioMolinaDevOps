@@ -212,12 +212,12 @@
     alt="Visual Studio Code">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Prometheus/Prometheus-orignal.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-orignal.svg"
     width="60px"
     alt="Prometheus">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/InfluxDB/InfluxDB-orignal.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxDB/influxDB-orignal.svg"
     width="60px"
     alt="InfluxDB">
 &nbsp;&nbsp;&nbsp;&nbsp;
