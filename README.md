@@ -4,20 +4,20 @@
 
 
 <h1 align="center">Hola, Soy Julio Molina <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Apasionado por el Desarrollo FullStack y la Cultura DevOps desde Colombia</h3>
+<h3 font-size="20" align="center">Apasionado por el Desarrollo FullStack y DevOps desde Colombia</h3>
 
-- 🌱 Actualmente aprendiendo y profundizando en **DevOps**, **Cloud Computing** y **Automatización**. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+-  Actualmente aprendiendo y profundizando en **DevOps**, **Cloud Computing** y **Automatización**. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 Buscando colaborar en proyectos que involucren **CI/CD, Kubernetes y Arquitecturas Escalables**.
+-  Buscando colaborar en proyectos que involucren **CI/CD, Kubernetes y Arquitecturas Escalables**.
 
-- 🤝 Abierto a ayudar en **Diseño de Infraestructuras y Pipelines de Despliegue**.
+-  Abierto a ayudar en **Diseño de Infraestructuras y Pipelines de Despliegue**.
 
-- 👨‍💻 Todos mis proyectos están disponibles [@JulioMolinaDevOps](https://github.com/JulioMolinaDevOps)
+-  Todos mis proyectos están disponibles [@JulioMolinaDevOps](https://github.com/JulioMolinaDevOps)
 
-- 💬 Pregúntame sobre **Automatización, Monitoreo y Buenas Prácticas en DevOps**.
+-   Pregúntame sobre **Automatización, Monitoreo y Buenas Prácticas en DevOps**.
 
-- 🛠️ Herramientas que uso a diario:
-  - CI/CD: GitHub Actions, Jenkins  
+-   Herramientas que uso a diario:
+  - CI/CD: GitHub Actions, Jenkins, GitLabs  
   - Contenedores y Orquestación: Docker, Kubernetes  
   - Nube: AWS, Azure  
   - Infraestructura como Código: Terraform, Ansible  
@@ -215,6 +215,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain-wordmark.svg"
     width="60px"
     alt="CircleCI">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+    width="60px"
+    alt="Grafana">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
