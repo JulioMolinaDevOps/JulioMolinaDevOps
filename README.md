@@ -197,6 +197,11 @@
     alt="Kubernetes">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
+    width="60px"
+    alt="Kubernetes">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
     width="60px"
     alt="IntelliJ IDEA">
