@@ -187,9 +187,9 @@
     alt="Docker">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
     width="60px"
-    alt="Docker">
+    alt="Ansible">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
