@@ -212,6 +212,16 @@
     alt="Visual Studio Code">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Prometheus/Prometheus-orignal.svg"
+    width="60px"
+    alt="Prometheus">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/InfluxDB/InfluxDB-orignal.svg"
+    width="60px"
+    alt="InfluxDB">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain-wordmark.svg"
     width="60px"
     alt="CircleCI">
