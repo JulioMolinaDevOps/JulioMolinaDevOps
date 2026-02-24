@@ -211,16 +211,16 @@
     width="60px"
     alt="Visual Studio Code">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-orignal.svg"
-    width="60px"
-    alt="Prometheus">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="60px" alt="Prometheus">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxDB/influxDB-orignal.svg"
-    width="60px"
-    alt="InfluxDB">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" width="60px" alt="InfluxDB">
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="60px" alt="Loki">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo-promtail.png" width="60px" alt="Promtail">
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain-wordmark.svg"
     width="60px"
